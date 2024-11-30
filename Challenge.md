@@ -16,6 +16,10 @@ Your challenge is to write the shortest possible PowerShell script that identifi
 12/13/2666
 ```
 
+### Submit
+
+Submit your solutions to psugffm@gmail.com
+
 ### Notes
 
 The output has to be "calculated" with PowerShell, so basically outputting the whole days is not a solution for this challenge.
